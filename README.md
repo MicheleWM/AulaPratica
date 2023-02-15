@@ -1,4 +1,4 @@
-# AulaPratica
+# Aula Prática
 
 ## Fiz três projetos simples em Java para praticar durante a aula de Java e OO.
 
